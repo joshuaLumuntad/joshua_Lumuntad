@@ -19,13 +19,14 @@ I am Joshua Lumuntad, a passionate coder with a strong foundation in information
 - https://catalog-education.oracle.com/pls/certview/sharebadge?id=A7E7AFA4FDB190C68A186AB2303D09406454CF8345592819F4750ECF56A25EBF&fbclid=IwAR2rQy-M3rE6ZuZ6deeVodDaSGkHNDbmzmKL8eHTAuG0AVu2IrLGRnO6GtU
 - [SQL and Relational Databases 101]
 - https://courses.cognitiveclass.ai/certificates/f3834c9acb9540969bfa89faac0e3e0b
--[NoSQL and DBaaS 101]
+- [NoSQL and DBaaS 101]
 - https://courses.cognitiveclass.ai/certificates/4a2551989ff942d79cfd5726f08c77c8
 ## Skill Sets
 
 - **Programming:** Java, Javascript
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, AndroidStudio, Pentaho,
+  
 
 ## Connect with Me
 
