@@ -30,5 +30,5 @@ I am Joshua Lumuntad, a passionate coder with a strong foundation in information
 
 ## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/joshua-lumuntad-16b726225)
+- LinkedIn: [https://www.linkedin.com/in/joshua-lumuntad-16b726225/]
 - Email: joshualumuntad@gmail.com
